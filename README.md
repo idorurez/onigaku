@@ -1,4 +1,6 @@
-# KBD - for building keyboard libraries
+# Onigaku - KiCad libraries for building Onigaku devices
+
+This repo is an unofficial 'fork', unsync'd and lives standalone from foostan's "kbd" repo. I will eventually rectify this to completely merge or completely separate my contributions.
 
 ## KiCad Footprint Libraries
 
