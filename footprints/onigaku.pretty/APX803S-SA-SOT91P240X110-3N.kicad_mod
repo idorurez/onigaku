@@ -1,5 +1,5 @@
 
-(module SOT91P240X110-3N (layer F.Cu) (tedit 603C5D8D)
+(module SOT91P240X110-3N (layer F.Cu) (tedit 6041D2F3)
   (descr "")
   (fp_text reference REF** (at 0.532 -2.4064 0) (layer F.SilkS)
     (effects (font (size 0.64 0.64) (thickness 0.015)))
