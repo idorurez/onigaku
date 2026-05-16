@@ -551,6 +551,17 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "C:/Users/neuro/dev/keyboard/onigaku/packages3D/kbd.3dshapes/Gateron-KS-33_v2.step"
+		(offset
+			(xyz 0 0 -4.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 180)
+		)
+	)
 	(model "./Gateron-KS33-Socket.step"
 		(offset
 			(xyz -5.025 -7.925 1.8375)
